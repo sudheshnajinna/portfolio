@@ -250,7 +250,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	border-color: transparent;
 }
-
+.navbar-link.active {
+  color: #fbfbfb; /* Change this to your desired active link color */
+}
 /************ Banner Css ************/
 .banner {
   margin-top: 0;
